@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp\\Exercicios2\\Exercicios2.csproj",
+      "projectUniqueName": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp-\\Exercicios2\\Exercicios2.csproj",
       "projectName": "Exercicios2",
-      "projectPath": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp\\Exercicios2\\Exercicios2.csproj",
+      "projectPath": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp-\\Exercicios2\\Exercicios2.csproj",
       "packagesPath": "C:\\Users\\bielp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp\\Exercicios2\\obj\\",
+      "outputPath": "C:\\Users\\bielp\\Documents\\estudosGabriel\\Csharp-\\Exercicios2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bielp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

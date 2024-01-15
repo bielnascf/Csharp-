@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\bin\Debug\net8.0\Exercicios7.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\bin\Debug\net8.0\Exercicios7.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\bin\Debug\net8.0\Exercicios7.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\bin\Debug\net8.0\Exercicios7.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\bin\Debug\net8.0\Exercicios7.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\refint\Exercicios7.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\Exercicios7.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios7\obj\Debug\net8.0\ref\Exercicios7.dll
