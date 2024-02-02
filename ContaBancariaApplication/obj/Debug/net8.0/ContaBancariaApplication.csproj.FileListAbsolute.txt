@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\bin\Debug\net8.0\ContaBancariaApplication.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\bin\Debug\net8.0\ContaBancariaApplication.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\bin\Debug\net8.0\ContaBancariaApplication.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\bin\Debug\net8.0\ContaBancariaApplication.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\bin\Debug\net8.0\ContaBancariaApplication.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\refint\ContaBancariaApplication.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ContaBancariaApplication.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ContaBancariaApplication\obj\Debug\net8.0\ref\ContaBancariaApplication.dll

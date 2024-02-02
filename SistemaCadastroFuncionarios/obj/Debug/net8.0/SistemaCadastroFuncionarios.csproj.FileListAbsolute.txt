@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\bin\Debug\net8.0\SistemaCadastroFuncionarios.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\bin\Debug\net8.0\SistemaCadastroFuncionarios.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\bin\Debug\net8.0\SistemaCadastroFuncionarios.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\bin\Debug\net8.0\SistemaCadastroFuncionarios.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\bin\Debug\net8.0\SistemaCadastroFuncionarios.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\refint\SistemaCadastroFuncionarios.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\SistemaCadastroFuncionarios.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\SistemaCadastroFuncionarios\obj\Debug\net8.0\ref\SistemaCadastroFuncionarios.dll

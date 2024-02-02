@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\bin\Debug\net8.0\Exercicios24.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\bin\Debug\net8.0\Exercicios24.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\bin\Debug\net8.0\Exercicios24.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\bin\Debug\net8.0\Exercicios24.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\bin\Debug\net8.0\Exercicios24.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\refint\Exercicios24.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\Exercicios24.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios24\obj\Debug\net8.0\ref\Exercicios24.dll

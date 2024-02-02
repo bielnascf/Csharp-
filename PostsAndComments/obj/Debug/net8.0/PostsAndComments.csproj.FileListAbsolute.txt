@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\bin\Debug\net8.0\PostsAndComments.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\bin\Debug\net8.0\PostsAndComments.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\bin\Debug\net8.0\PostsAndComments.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\bin\Debug\net8.0\PostsAndComments.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\bin\Debug\net8.0\PostsAndComments.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\refint\PostsAndComments.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\PostsAndComments.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\PostsAndComments\obj\Debug\net8.0\ref\PostsAndComments.dll
