@@ -13,3 +13,10 @@ C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\re
 C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\Exercicios21.pdb
 C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\Exercicios21.genruntimeconfig.cache
 C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\ref\Exercicios21.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\bin\Debug\net8.0\Exercicios2.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\bin\Debug\net8.0\Exercicios2.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\bin\Debug\net8.0\Exercicios2.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\bin\Debug\net8.0\Exercicios2.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\bin\Debug\net8.0\Exercicios2.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\Exercicios21.csproj.AssemblyReference.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\Exercicios21\obj\Debug\net8.0\Exercicios21.csproj.CopyComplete

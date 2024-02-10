@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Exercicios21/1.0.0": {
+        "dependencies": {
+          "Exercicios2": "1.0.0"
+        },
         "runtime": {
           "Exercicios21.dll": {}
+        }
+      },
+      "Exercicios2/1.0.0": {
+        "runtime": {
+          "Exercicios2.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Exercicios21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercicios2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

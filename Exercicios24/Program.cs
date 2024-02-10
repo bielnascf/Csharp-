@@ -12,9 +12,9 @@ namespace Exercicios24
             Console.Write("Digite o número de funcionários: ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Funcionário #{i + 1}");
+                Console.WriteLine($"Funcionário #{i}");
 
                 Console.Write("Terceirizado (s/n)? ");
                 char outsourced = char.Parse(Console.ReadLine());
