@@ -1,0 +1,15 @@
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\bin\Debug\net8.0\ParcelasContrato.exe
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\bin\Debug\net8.0\ParcelasContrato.deps.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\bin\Debug\net8.0\ParcelasContrato.runtimeconfig.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\bin\Debug\net8.0\ParcelasContrato.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\bin\Debug\net8.0\ParcelasContrato.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.AssemblyInfoInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.AssemblyInfo.cs
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.csproj.CoreCompileInputs.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.sourcelink.json
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\refint\ParcelasContrato.dll
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.pdb
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ParcelasContrato.genruntimeconfig.cache
+C:\Users\bielp\Documents\estudosGabriel\Csharp-\ParcelasContrato\obj\Debug\net8.0\ref\ParcelasContrato.dll
